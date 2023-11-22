@@ -1,6 +1,6 @@
 version: 1.0
 os: linux
 files:
-  - source: /index.html
+  - source: /
     destination: /usr/share/nginx/html
-     overwrite: true
+    overwrite: true
